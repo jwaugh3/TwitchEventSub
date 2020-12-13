@@ -13,9 +13,18 @@ Nodejs
 Prerequisites
 npm install 
 nodejs
+ngrok
 
 
 Getting Started
+
+Install Ngrok for Https on local machine
+https://ngrok.com/
+path to folder with ngrok.exe
+Commandline: ngrok http localhost:3000
+copy https url and past as callbackURL in project
+example: https://41d23fb48362.ngrok.io
+
 npm i
 
 Update constants:
