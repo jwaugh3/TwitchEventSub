@@ -86,7 +86,7 @@ const createNewSubscription = async (appAccessToken, broadcaster_id, subscriptio
         },
         "transport": {
             "method": "webhook",
-            "callback": callbackURL + "/path", // -- endpoint must mast express endpoint
+            "callback": callbackURL + "/path", // -- endpoint must match express endpoint
             "secret": "my7secret7haha" //your secret
         }
     })
