@@ -44,7 +44,7 @@ For more examples, please refer to the Documentation
 https://dev.twitch.tv/docs/eventsub
 
 Contact
-James Waugh - @MrJwaugh3 on Twitter
+James Waugh
 
 Reference
 https://dev.twitch.tv/docs
